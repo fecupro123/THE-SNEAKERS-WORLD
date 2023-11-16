@@ -1,0 +1,37 @@
+#container{
+	background: white;
+	width: 90%;
+	margin: 0px auto;
+	border: 1px solid black;
+}
+
+body{
+	background: black;
+}
+.article{
+	color: black;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-bottom: 1px solid #eee;
+	font-family: 'galano-grotesque-demo-bold', sans-serif;
+	font-size: 25px;
+	padding-bottom: 10px;
+}
+.texto{
+	text-align: center; 
+}
+#imagenes{
+	text-align: center;
+}
+h2{
+	padding: 4px ;
+	text-align: center;
+	font-family: 'galano-grotesque-demo-bold', sans-serif;
+	font-size: 80px;
+
+}
+#iniciobt{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 50px;
+	text-align: center;
+}
